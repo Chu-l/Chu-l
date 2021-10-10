@@ -1,16 +1,24 @@
 - 👋 Hi, I’m @Chu-l
 - 👀 I’m interested in games, coding, coffe and pugs.
-- 🌱 I’m currently learning web frontend
-- 📫 How to reach me: linkedin - twitter - mail
+- 🌱 I’m currently learning web frontend and game dev with Unreal Engine 4.
 
-<!-- Social icons section -->
-<!--<p align="center">
-   <a href="https://twitter.com/_Lilen_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>-->
+📫 How to reach me: 
+
+&nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/_Lilen_) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/chu-l/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/l.i.l.e.n/)  &nbsp; <a href="mailto:lilen.chu2@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ 
+### I code with
+ 
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp; <!--
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>-->
 
 <!-- Cards section -->
 | <a href="https://github.com/Chu-l/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chu-l&show_icons=true&include_all_commits=true&theme=omni&hide_border=true" alt="Chul's github stats" /></a> | <a href="https://github.com/Chu-l/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chu-l&layout=compact&theme=omni&hide_border=true" /></a> |
 | ------------- | ------------- |
+<br>
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Chu-l&color=00df00)

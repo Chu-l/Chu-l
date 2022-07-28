@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/Chu-l/Chu-l/blob/main/gif1.gif' width='200"'>
+<img align='right' src='https://github.com/Chu-l/Chu-l/blob/main/gif1.gif' width='200'>
 
 - 👋 Hi, I’m @Chu-l <br>
 - 👀 I’m interested in games, coding, coffe, hamsters and pugs. <br>

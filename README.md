@@ -1,7 +1,7 @@
 <img align='right' src='https://github.com/Chu-l/Chu-l/blob/main/gif1.gif' width='200'>
 
 - 👋 Hi, I’m @Chu-l <br>
-- 👀 I’m interested in games, coding, coffe, hamsters and pugs. <br>
+- 👀 I’m interested in games, game art, pixel art, coding, and hamsters. <br>
 - 🌱 I’m currently learning web frontend and game dev with Unreal Engine 4. <br>
 
 📫 How to reach me: 

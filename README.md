@@ -19,7 +19,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>-->
 
 <!-- Cards section -->
-| <a href="https://github.com/Chu-l/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chu-l&show_icons=true&include_all_commits=true&theme=omni&hide_border=true" alt="Chul's github stats" /></a> | <a href="https://github.com/Chu-l/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chu-l&layout=compact&theme=omni&hide_border=true" /></a> |
+<a href="https://github.com/Chu-l/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chu-l&layout=compact&theme=omni&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br>
 

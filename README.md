@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Chu-l <br>
 - 👀 I’m interested in games, game art, pixel art, coding, and hamsters. <br>
-- 🌱 I’m currently learning web frontend and game dev with Unreal Engine 4. <br>
+- 🌱 I’m currently learning C++ and Game Art at Image Campus. <br>
 
 📫 How to reach me: 
 

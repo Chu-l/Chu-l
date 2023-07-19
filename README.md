@@ -1,7 +1,7 @@
 <img align='right' src='https://github.com/Chu-l/Chu-l/blob/main/gif1.gif' width='200'>
 
 - 👋 Hi, I’m @Chu-l <br>
-- 👀 I’m interested in games, game art, pixel art, coding, and hamsters. <br>
+- 👀 I’m interested in games, testing, pixel art and coding. <br>
 - 🌱 I’m currently learning C++ at Quark Academy and Game Art at Image Campus. <br>
 
 📫 How to reach me: 

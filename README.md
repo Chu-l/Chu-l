@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Chu-l <br>
 - 👀 I’m interested in games, testing, pixel art and coding. <br>
-- 🌱 I’m currently learning C++ at Quark Academy and Game Art at Image Campus. <br>
+- 🌱 I studied Game Art at Image Campus and Manual Testing at Coderhouse. <br>
 
 📫 How to reach me: 
 

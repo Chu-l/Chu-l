@@ -1,8 +1,8 @@
 <img align='right' src='https://github.com/Chu-l/Chu-l/blob/main/gif1.gif' width='200'>
 
 - 👋 Hi, I’m @Chu-l <br>
-- 👀 I’m interested in games, testing, pixel art and coding. <br>
-- 🌱 I studied Game Art at Image Campus and Manual Testing at Coderhouse. <br>
+- 👀 I’m interested in games, testing, game art and coding. <br>
+- 🌱 I studied Manual Testing at Coderhouse, and I am currently pursuing a QA Testing career at Educación IT. <br>
 
 📫 How to reach me: 
 
